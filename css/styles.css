@@ -1,0 +1,55 @@
+body {
+  background-color: #ffffff;
+  color: #212121;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.logo {
+  color: #000000;
+}
+
+/*site-nav*/
+.site-nav span {
+  color: #2196f3;
+}
+
+.site-nav a {
+  color: #212121;
+}
+
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
+
+.site-nav-contacts a {
+  color: #757575;
+}
+
+/* основной цвет 
+#212121*/
+
+/* вторичный цвет
+#757575;*/
+
+/*акцент
+#2196F3;*/
+
+/*белый
+#ffffff;*/
+
+/* адрес
+лого
+г. Киев #FFFFFF
+
+почто телефон rgba(255, 255, 255, 0.6);
+
+/*вторичный цвет фона
+color: #2F303A;*/
